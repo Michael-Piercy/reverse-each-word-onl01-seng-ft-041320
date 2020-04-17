@@ -1,4 +1,4 @@
-def reverse_each_word(words)
+def reverse_each_word()
     array = words.split
     new_sentence = []
     array.collect do |word|
